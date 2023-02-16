@@ -1,7 +1,7 @@
-# asd 
+# README GENERATOR 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 ## Description
-asd
+Generates professional README.MD
   
 ## Table of Contents
 - [Installation](#installation)
@@ -13,17 +13,17 @@ asd
 - [Tests](#tests)
 - [Questions](#questions)
 ## Installation
-undefined
+INSTALL 'NPM I INQUIRER@8.2.4' & 'NPM I FS'
 ## Usage
-asd
+FOLLOW INSTRUCTIONS IN README.MD
 ## Credits
-asd
+everyone
 ## License
 This application is covered under the Apache 2.0 license
 ## Contributing
-asd
+Jesus
 ## Tests
-asd
+Not today
 ## Questions
-Contact me by email here: asd
-My GitHub: https://github.com/asd
+Contact me by email here: apostilex11@gmail.com
+My GitHub: https://github.com/apostilex11

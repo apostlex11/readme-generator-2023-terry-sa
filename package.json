@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/apostlex11/readme-generator-2023-terry-sa#readme",
   "dependencies": {
+    "fs": "^0.0.1-security",
     "inquirer": "^8.2.4"
   }
 }
